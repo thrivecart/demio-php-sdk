@@ -1,5 +1,5 @@
 {
-  "name": "meetdemio/demio-php-sdk",
+  "name": "tcdev/demio-php-sdk",
   "version": "1.0",
   "title": "Demio API PHP SDK",
   "description": "Demio API PHP SDK",
@@ -7,7 +7,7 @@
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "https://github.com/meetdemio/demio-php-sdk"
+    "url": "https://github.com/thrivecart/demio-php-sdk"
   },
   "author": {
     "name": "Oleksandr Torosh",
